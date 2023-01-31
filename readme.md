@@ -7,3 +7,4 @@ PUT     - /api/category/:id - alohida tahrirlash
 DELETE  - /api/category/:id - alohida o'chirish
 ```
 
+# Yangilik-sayt
